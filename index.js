@@ -46,10 +46,6 @@ window.onload = function()
             }
         }
     }     
-    alert(array_of_addresses.length);
-    rawFile.send(null); 
-
-    add_new_marker(asdf);
 
 }
 
