@@ -33,7 +33,7 @@ window.onload = function()
                             counter++;
                         }
                         
-                        alert(address_builder);
+                        //alert(address_builder);
                         address_builder = "";
                     }
                 }
