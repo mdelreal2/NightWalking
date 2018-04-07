@@ -7,6 +7,14 @@
     </script>
 
     <link rel="stylesheet"type="text/css" href="index.css">
+
+    <style>
+        #map{
+            height:400px;
+            width:100%;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -14,6 +22,28 @@
         Test
     </p>
 
+    <h1>My Google Map</h1>
+    <div id="map"></div>
+
+    <script>
+        function initMap() {
+        var uluru = {lat: 42.5847, lng: -87.8212};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 13,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+    </script>
+    
+    
+    
+        <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCNACi4xeH9shLlhdqF352S-LMUZsAus6Y&callback=initMap">
+        </script>
 
 </body>
 
