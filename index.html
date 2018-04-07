@@ -18,35 +18,53 @@
 </head>
 
 <body>
-    <p>
-        Test
-    </p>
 
     <h1>My Google Map</h1>
     <div id="map"></div>
 
     <script>
+
+        var url = "https://appsdoc.wi.gov/public/offenderdetails?id=5330";
+        var kenoshaCoords = {lat: 42.5847, lng: -87.8212};
+        var ppCoords = {lat: 42.5531, lng: -87.9334};
+
+
         function initMap() {
-        var uluru = {lat: 42.5847, lng: -87.8212};
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 13,
-          center: uluru
+          center: kenoshaCoords
         });
+
+/*
         var marker = new google.maps.Marker({
-          position: uluru,
+          position: location,
           map: map,
           url: "https://appsdoc.wi.gov/public/offenderdetails?id=5330"
           //icon: "https://appsdoc.wi.gov/public/secure/ImageServer?photoId=3641272&size=30"
         });
-        /*
-        var infoWindow = new google.maps.InfoWindow({
-            //content:"https://appsdoc.wi.gov/public/offenderdetails?id=5330"
-        });
-        */
 
         google.maps.event.addListener(marker, 'click', function(){
             window.open(this.url);
         });
+*/
+
+        addMarker(kenoshaCoords, url);
+        addMarker(ppCoords, url);
+
+        //add marker function
+        function addMarker(coords, url)
+        {
+        var marker = new google.maps.Marker({
+          position: coords,
+          map: map,
+          url: "https://appsdoc.wi.gov/public/offenderdetails?id=5330"
+          //icon: "https://appsdoc.wi.gov/public/secure/ImageServer?photoId=3641272&size=30"
+        });
+
+        google.maps.event.addListener(marker, 'click', function(){
+        window.open(this.url);
+        });
+        }
     }
     </script>
     
