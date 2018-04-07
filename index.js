@@ -41,9 +41,7 @@ window.onload = function()
             }
         }
     }     
-    rawFile.send(null); 
-
-    add_new_marker(asdf);
+    add_new_marker(null);
 
 }
 
