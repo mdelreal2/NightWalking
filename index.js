@@ -43,4 +43,19 @@ window.onload = function()
     }     
     rawFile.send(null); 
 
+    add_new_marker(asdf);
+
+}
+
+function add_new_marker(address)
+{
+    var geocoder = new google.maps.Geocoder();
+    var addr = "1286 40TH AVE KENOSHA, WI 53144-2900";
+
+    geocoder.geocode(addr, function(results, status)
+    {
+        var lat = results[0].geometry.location.latitude;
+        var long = results[0].geometry.location.longitude;
+        alert(lat + " " + long);
+    });
 }
