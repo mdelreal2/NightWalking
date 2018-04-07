@@ -1,0 +1,536 @@
+[
+  {
+    "Address": "1286 40TH AVE KENOSHA",
+    "Latitude": 42.6360162,
+    "Longitude": -87.8568554,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=5330"
+  },
+  {
+    "Address": "4509 30TH AVE KENOSHA",
+    "Latitude": 42.5950867,
+    "Longitude": -87.8452158,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=22709"
+  },
+  {
+    "Address": "4903 14TH AVE KENOSHA",
+    "Latitude": 42.5916136,
+    "Longitude": -87.8274491,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=23600"
+  },
+  {
+    "Address": "6736 SHERIDAN RD APT 3 KENOSHA",
+    "Latitude": 42.5721102,
+    "Longitude": -87.8234468,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=25493"
+  },
+  {
+    "Address": "1407 SHERIDAN RD KENOSHA",
+    "Latitude": 42.6333878,
+    "Longitude": -87.8202455,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=16948"
+  },
+  {
+    "Address": "4832 42ND AVE KENOSHA",
+    "Latitude": 42.5924882,
+    "Longitude": -87.860308,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=13781"
+  },
+  {
+    "Address": "4912 34TH AVE KENOSHA",
+    "Latitude": 42.5916163,
+    "Longitude": -87.8504864,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=13873"
+  },
+  {
+    "Address": "4777 88TH AVE KENOSHA COUNTY DET CTR # 4156 KENOSHA",
+    "Latitude": 42.594281,
+    "Longitude": -87.9120981,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=32845"
+  },
+  {
+    "Address": "5711 7TH AVE APT 309 KENOSHA",
+    "Latitude": 42.5836837,
+    "Longitude": -87.8193193,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=39207"
+  },
+  {
+    "Address": "2775 11TH PL UNIT 806 KENOSHA",
+    "Latitude": 42.639587,
+    "Longitude": -87.841513,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=23584"
+  },
+  {
+    "Address": "4777 88TH AVE KENOSHA CO DETENTION CTR KENOSHA",
+    "Latitude": 39.856341,
+    "Longitude": -105.057612,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=24120"
+  },
+  {
+    "Address": "6504 SHERIDAN RD APT 4 KENOSHA",
+    "Latitude": 42.575206,
+    "Longitude": -87.822263,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=17309"
+  },
+  {
+    "Address": "7311 98TH AVE UNIT E KENOSHA",
+    "Latitude": 42.568334,
+    "Longitude": -87.927665,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=25976"
+  },
+  {
+    "Address": "4016 31ST AVE KENOSHA",
+    "Latitude": 42.600356,
+    "Longitude": -87.847175,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=58304"
+  },
+  {
+    "Address": "3124 13TH LN UNIT D KENOSHA",
+    "Latitude": 42.634694,
+    "Longitude": -87.847804,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=16122"
+  },
+  {
+    "Address": "2204 60TH ST APT 25 KENOSHA",
+    "Latitude": 42.580917,
+    "Longitude": -87.836146,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=10671"
+  },
+  {
+    "Address": "6127 80TH PL KENOSHA",
+    "Latitude": 42.558693,
+    "Longitude": -87.88195,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=15914"
+  },
+  {
+    "Address": "8116 22ND AVE KENOSHA",
+    "Latitude": 42.556193,
+    "Longitude": -87.83559,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=13644"
+  },
+  {
+    "Address": "1507 74TH ST KENOSHA",
+    "Latitude": 42.566931,
+    "Longitude": -87.828088,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=24747"
+  },
+  {
+    "Address": "2025 56TH ST APT 2 KENOSHA",
+    "Latitude": 42.58342,
+    "Longitude": -87.834454,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=11246"
+  },
+  {
+    "Address": "2204 60TH ST APT 7 KENOSHA",
+    "Latitude": 42.580917,
+    "Longitude": -87.836146,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=16715"
+  },
+  {
+    "Address": "6222 12TH AVE KENOSHA",
+    "Latitude": 42.577908,
+    "Longitude": -87.825204,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=4286"
+  },
+  {
+    "Address": "2612 75TH ST KENOSHA",
+    "Latitude": 42.566143,
+    "Longitude": -87.840814,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=9178"
+  },
+  {
+    "Address": "1815 61ST ST APT 4 KENOSHA",
+    "Latitude": 42.579269,
+    "Longitude": -87.831645,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=15670"
+  },
+  {
+    "Address": "4777 88TH AVE KENOSHA COUNTY DETENTION CENTER KENOSHA",
+    "Latitude": 42.593936,
+    "Longitude": -87.914804,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=11083"
+  },
+  {
+    "Address": "609 58TH ST APT 3 KENOSHA",
+    "Latitude": 42.583062,
+    "Longitude": -87.818555,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=25018"
+  },
+  {
+    "Address": "5820 5TH AVE LOWR KENOSHA",
+    "Latitude": 42.582711,
+    "Longitude": -87.817091,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=25690"
+  },
+  {
+    "Address": "5129 22ND AVE UPPR KENOSHA",
+    "Latitude": 42.588638,
+    "Longitude": -87.835469,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=20957"
+  },
+  {
+    "Address": "4777 88TH AVE KENOSHA CO DETENTION CTR KENOSHA",
+    "Latitude": 39.856341,
+    "Longitude": -105.057612,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=16335"
+  },
+  {
+    "Address": "5711 7TH AVE RM 307 KENOSHA",
+    "Latitude": 42.58372,
+    "Longitude": -87.819319,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=22639"
+  },
+  {
+    "Address": "2103 53RD ST KENOSHA",
+    "Latitude": 42.586865,
+    "Longitude": -87.834819,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=12602"
+  },
+  {
+    "Address": "3930 30TH AVE KENOSHA",
+    "Latitude": 42.601049,
+    "Longitude": -87.845954,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=14761"
+  },
+  {
+    "Address": "4700 SHERIDAN RD KENOSHA",
+    "Latitude": 42.593367,
+    "Longitude": -87.823139,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=5464"
+  },
+  {
+    "Address": "6935 70TH CT UNIT 312 KENOSHA",
+    "Latitude": 42.572517,
+    "Longitude": -87.892792,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=11686"
+  },
+  {
+    "Address": "5716 21ST AVE APT 6 KENOSHA",
+    "Latitude": 42.582053,
+    "Longitude": -87.83469,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=18820"
+  },
+  {
+    "Address": "7112 43RD AVE KENOSHA",
+    "Latitude": 42.568842,
+    "Longitude": -87.86031,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=8935"
+  },
+  {
+    "Address": "3819 78TH ST KENOSHA",
+    "Latitude": 42.56239,
+    "Longitude": -87.854764,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=2838"
+  },
+  {
+    "Address": "6934 55TH ST KENOSHA",
+    "Latitude": 42.585998,
+    "Longitude": -87.892347,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=22939"
+  },
+  {
+    "Address": "4013 8TH AVE KENOSHA",
+    "Latitude": 42.600309,
+    "Longitude": -87.821656,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=8324"
+  },
+  {
+    "Address": "2204 60TH ST APT 19 KENOSHA",
+    "Latitude": 42.580917,
+    "Longitude": -87.836146,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=1550"
+  },
+  {
+    "Address": "4777 88TH AVE KENOSHA COUNTY DET CTR # 3363 KENOSHA",
+    "Latitude": 42.593936,
+    "Longitude": -87.914804,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=2170"
+  },
+  {
+    "Address": "6902 52ND AVE KENOSHA",
+    "Latitude": 42.57083,
+    "Longitude": -87.870235,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=639"
+  },
+  {
+    "Address": "2204 60TH ST APT 5 KENOSHA",
+    "Latitude": 42.580917,
+    "Longitude": -87.836146,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=32581"
+  },
+  {
+    "Address": "9002 SHERIDAN RD LOT 178 KENOSHA",
+    "Latitude": 42.54496,
+    "Longitude": -87.825432,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=7505"
+  },
+  {
+    "Address": "7833 28TH AVE KENOSHA",
+    "Latitude": 42.586362,
+    "Longitude": -87.880155,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=17440"
+  },
+  {
+    "Address": "2506 48TH ST KENOSHA",
+    "Latitude": 42.592929,
+    "Longitude": -87.839676,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=52244"
+  },
+  {
+    "Address": "4777 88TH AVE KENOSHA COUNTY DETENTION CENTER KENOSHA",
+    "Latitude": 42.593936,
+    "Longitude": -87.914804,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=7172"
+  },
+  {
+    "Address": "3815 10TH AVE # 2 KENOSHA",
+    "Latitude": 42.600723,
+    "Longitude": -87.824419,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=13202"
+  },
+  {
+    "Address": "1607 87TH ST KENOSHA",
+    "Latitude": 42.547847,
+    "Longitude": -87.82916,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=3706"
+  },
+  {
+    "Address": "6029 18TH AVE APT 10 KENOSHA",
+    "Latitude": 42.580179,
+    "Longitude": -87.831035,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=12936"
+  },
+  {
+    "Address": "5112 PERSHING BLVD APT 104 KENOSHA",
+    "Latitude": 42.589426,
+    "Longitude": -87.863514,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=17556"
+  },
+  {
+    "Address": "4777 88TH AVE KENOSHA CO DETENTION CTR KENOSHA",
+    "Latitude": 39.856341,
+    "Longitude": -105.057612,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=16922"
+  },
+  {
+    "Address": "6027 18TH AVE APT 1 KENOSHA",
+    "Latitude": 42.579896,
+    "Longitude": -87.830803,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=20918"
+  },
+  {
+    "Address": "815 16TH PL APT 104 KENOSHA",
+    "Latitude": 42.628011,
+    "Longitude": -87.82163,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=18816"
+  },
+  {
+    "Address": "10025 70TH ST KENOSHA",
+    "Latitude": 42.5715,
+    "Longitude": -87.931027,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=22953"
+  },
+  {
+    "Address": "7019 44TH AVE KENOSHA",
+    "Latitude": 42.569708,
+    "Longitude": -87.861229,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=3841"
+  },
+  {
+    "Address": "2025 56TH ST APT 4 KENOSHA",
+    "Latitude": 42.58342,
+    "Longitude": -87.834454,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=14117"
+  },
+  {
+    "Address": "1751 18TH AVE KENOSHA",
+    "Latitude": 42.625343,
+    "Longitude": -87.831027,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=9509"
+  },
+  {
+    "Address": "6904 57TH AVE KENOSHA",
+    "Latitude": 42.571018,
+    "Longitude": -87.87661,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=65043"
+  },
+  {
+    "Address": "5121 25TH AVE KENOSHA",
+    "Latitude": 42.588812,
+    "Longitude": -87.839118,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=28744"
+  },
+  {
+    "Address": "6024 14TH AVE APT 2 KENOSHA",
+    "Latitude": 42.57998,
+    "Longitude": -87.827387,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=19477"
+  },
+  {
+    "Address": "1426 59TH ST APT 4 KENOSHA",
+    "Latitude": 42.581625,
+    "Longitude": -87.828036,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=10994"
+  },
+  {
+    "Address": "5716 21ST AVE APT 8 KENOSHA",
+    "Latitude": 42.582053,
+    "Longitude": -87.83469,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=3902"
+  },
+  {
+    "Address": "6116 24TH AVE UPPR KENOSHA",
+    "Latitude": 42.57885,
+    "Longitude": -87.837874,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=22664"
+  },
+  {
+    "Address": "1601 57TH ST KENOSHA",
+    "Latitude": 42.582697,
+    "Longitude": -87.828975,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=13498"
+  },
+  {
+    "Address": "4303 75TH ST LOT 58 KENOSHA",
+    "Latitude": 42.566043,
+    "Longitude": -87.860892,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=6412"
+  },
+  {
+    "Address": "6907 14TH AVE KENOSHA",
+    "Latitude": 42.57028,
+    "Longitude": -87.826632,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=3591"
+  },
+  {
+    "Address": "2102 62ND ST LOWR KENOSHA",
+    "Latitude": 42.579765,
+    "Longitude": -87.920817,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=18995"
+  },
+  {
+    "Address": "2020 89TH ST APT 4 KENOSHA",
+    "Latitude": 42.544202,
+    "Longitude": -87.833308,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=15122"
+  },
+  {
+    "Address": "2932 73RD ST APT 4 KENOSHA",
+    "Latitude": 42.568191,
+    "Longitude": -87.844939,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=10794"
+  },
+  {
+    "Address": "5510 23RD AVE LOWR KENOSHA",
+    "Latitude": 42.57547,
+    "Longitude": -87.836602,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=13101"
+  },
+  {
+    "Address": "4777 88TH AVE KENOSHA CO DETENTION CTR KENOSHA",
+    "Latitude": 39.856341,
+    "Longitude": -105.057612,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=6122"
+  },
+  {
+    "Address": "8350 57TH AVE KENOSHA",
+    "Latitude": 42.553241,
+    "Longitude": -87.875632,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=3342"
+  },
+  {
+    "Address": "2310 76TH ST KENOSHA",
+    "Latitude": 42.564467,
+    "Longitude": -87.837082,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=7591"
+  },
+  {
+    "Address": "6755 14TH AVE KENOSHA",
+    "Latitude": 42.571644,
+    "Longitude": -87.826677,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=3632"
+  },
+  {
+    "Address": "5503 41ST AVE KENOSHA",
+    "Latitude": 42.585485,
+    "Longitude": -87.858549,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=21292"
+  },
+  {
+    "Address": "5035 18TH AVE LOWR KENOSHA",
+    "Latitude": 42.591636,
+    "Longitude": -87.830961,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=24282"
+  },
+  {
+    "Address": "2324 54TH ST KENOSHA",
+    "Latitude": 42.586278,
+    "Longitude": -87.837929,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=51947"
+  },
+  {
+    "Address": "6331 28TH AVE LOWR KENOSHA",
+    "Latitude": 42.604514,
+    "Longitude": -87.84317,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=17212"
+  },
+  {
+    "Address": "1806 43RD ST KENOSHA",
+    "Latitude": 42.597196,
+    "Longitude": -87.831873,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=15891"
+  },
+  {
+    "Address": "2115 52ND ST APT 3 KENOSHA",
+    "Latitude": 42.587772,
+    "Longitude": -87.835313,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=16831"
+  },
+  {
+    "Address": "1606 35TH ST KENOSHA",
+    "Latitude": 42.606406,
+    "Longitude": -87.828859,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=17870"
+  },
+  {
+    "Address": "4777 88TH AVE KENOSHA CO DETENTION CTR KENOSHA",
+    "Latitude": 39.856341,
+    "Longitude": -105.057612,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=14578"
+  },
+  {
+    "Address": "1805 60TH ST APT 6 KENOSHA",
+    "Latitude": 42.580552,
+    "Longitude": -87.831302,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=1535"
+  },
+  {
+    "Address": "6320 SHERIDAN RD LOWR KENOSHA",
+    "Latitude": 42.546765,
+    "Longitude": -87.82462,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=27634"
+  },
+  {
+    "Address": "6719 27TH AVE KENOSHA",
+    "Latitude": 42.572558,
+    "Longitude": -87.841347,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=21110"
+  },
+  {
+    "Address": "3707 ROOSEVELT RD KENOSHA",
+    "Latitude": 42.567281,
+    "Longitude": -87.853242,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=3708"
+  },
+  {
+    "Address": "1618 52ND ST STOP 1 KENOSHA",
+    "Latitude": 42.588192,
+    "Longitude": -87.829498,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=6727"
+  },
+  {
+    "Address": "1713 53RD ST LOWR KENOSHA",
+    "Latitude": 42.587861,
+    "Longitude": -87.890357,
+    "URL": "https://appsdoc.wi.gov/public/offenderdetails?id=28166"
+  }
+]
